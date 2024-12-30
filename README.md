@@ -94,15 +94,7 @@ Solution C
 
 Mehndi Sticker Marketplace
 
-Price
 
-$$
-
-$$
-
-$$$
-
-$
 
 Core Features
 
