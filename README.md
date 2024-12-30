@@ -4,7 +4,7 @@
 
 The Mehndi Sticker Marketplace aims to revolutionize the way individuals and professionals celebrate and apply mehndi (henna) designs. The platform serves as a dedicated marketplace for artists, hobbyists, and customers looking for unique mehndi designs not only from local artists but also from talented designers across the globe. Our goal is to create a user-friendly interface that allows customers to browse, select, and purchase mehndi sticker designs, transforming the art of henna into a convenient and accessible form.
 
-## 2. Tools and Prerequisites
+## 2. Tools 
 
 Before diving into the development process, it's important to identify the tools and technologies that will be leveraged. Here’s a brief list:
 
